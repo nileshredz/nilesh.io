@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Nilesh Ohol
 
-You can use the [editor on GitHub](https://github.com/nileshredz/nilesh.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To Merge my Critical Thinking, Analysis and Technical Skill to create a productive environment for myself.
+Grab the opportunity and establish a Positive Impact on the Company by accepting and working new beyond
+possible challenges and nourishing my experience.
+Being an Engineer, I am a Real-Time Magician to transition dreams and imaginations into reality. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
