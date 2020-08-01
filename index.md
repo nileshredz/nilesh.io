@@ -1,12 +1,13 @@
 ## Nilesh Ohol
 
+<img src="https://media-exp1.licdn.com/dms/image/C5103AQE3rb_52HTH0w/profile-displayphoto-shrink_400_400/0?e=1601510400&v=beta&t=VdJeNuiCconXmMqPgsXJgyXeEyUUKKyqeSfv8aKR2n4" alt="Paris" class="center">
+
 To Merge my Critical Thinking, Analysis and Technical Skill to create a productive environment for myself.
 Grab the opportunity and establish a Positive Impact on the Company by accepting and working new beyond
 possible challenges and nourishing my experience.
 Being an Engineer, I am a Real-Time Magician to transition dreams and imaginations into reality. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-yoo!!
+I am a Huge AI/ML Enthusiast. I love to implement Datadriven projects 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
